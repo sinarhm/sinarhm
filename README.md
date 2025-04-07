@@ -7,5 +7,5 @@ His research focuses on advancing simulation-based approaches for urban heat isl
  
 Sina has hands-on experience with energy simulation tools including OpenFOAM, IESVE, THERM, WUFI, and WINDOW, enabling the analysis of energy flows, moisture transport, and envelope durability—particularly in complex assemblies such as historical masonry facades. He has contributed to projects addressing HVAC optimization, forensic envelope assessments, and building performance evaluations in line with ASHRAE and LEED standards.
  
-He is a PhD student in Building Science from Toronto Metropolitan University, where his work bridges computational modeling and applied research. He also holds a Master’s degree in Environmental Engineering, providing a strong interdisciplinary foundation in sustainability, fluid dynamics, and energy systems in the built environment.
+He is a PhD student in [Building Science](https://www.torontomu.ca/architectural-science/building-science/home/) from Toronto Metropolitan University, where his work bridges computational modeling and applied research. He also holds a Master’s degree in Environmental Engineering, providing a strong interdisciplinary foundation in sustainability, fluid dynamics, and energy systems in the built environment.
 
